@@ -12,3 +12,9 @@
 2024-03-23 11:52:27,420:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
 2024-03-23 11:52:28,013:INFO:Prediction: 181150.24
 2024-03-23 11:52:28,013:INFO:127.0.0.1 - - [23/Mar/2024 11:52:28] "POST /index HTTP/1.1" 200 -
+2024-03-23 12:10:55,123:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:10:55,126:INFO:Prediction: 181150.24
+2024-03-23 12:10:55,127:INFO:127.0.0.1 - - [23/Mar/2024 12:10:55] "POST /index HTTP/1.1" 200 -
+2024-03-23 12:10:58,366:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:10:58,368:INFO:Prediction: 181150.24
+2024-03-23 12:10:58,369:INFO:127.0.0.1 - - [23/Mar/2024 12:10:58] "POST /index HTTP/1.1" 200 -
