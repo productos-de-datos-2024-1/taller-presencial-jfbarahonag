@@ -32,3 +32,5 @@
 2024-04-06 09:14:07,264:INFO:User values: {'bedrooms': 1.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
 2024-04-06 09:14:07,269:INFO:Prediction: 257977.13
 2024-04-06 09:14:07,270:INFO:127.0.0.1 - - [06/Apr/2024 09:14:07] "POST / HTTP/1.1" 200 -
+2024-04-06 09:35:32,393:INFO:Starting the application
+2024-04-06 09:35:32,457:INFO:Starting the application
