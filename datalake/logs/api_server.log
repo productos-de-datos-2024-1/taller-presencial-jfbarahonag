@@ -16,3 +16,20 @@
 2024-04-06 07:52:13,704:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
 2024-04-06 07:52:13,706:INFO:Prediction: [1680147.94681147]
 2024-04-06 07:52:13,706:INFO:127.0.0.1 - - [06/Apr/2024 07:52:13] "POST / HTTP/1.1" 200 -
+2024-04-06 08:00:11,411:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:00:11,413:INFO:Prediction: [1680147.94681147]
+2024-04-06 08:00:11,414:INFO:127.0.0.1 - - [06/Apr/2024 08:00:11] "POST / HTTP/1.1" 200 -
+2024-04-06 08:19:26,094:INFO: * Detected change in '/home/jfbarahonag/personal/courses/unal/ProductosDeDatos/taller-presencial-jfbarahonag/src/6a_api_server/client-example.py', reloading
+2024-04-06 08:19:26,300:INFO: * Restarting with stat
+2024-04-06 08:19:26,709:WARNING: * Debugger is active!
+2024-04-06 08:19:26,709:INFO: * Debugger PIN: 103-935-374
+2024-04-06 08:20:51,491:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:20:51,877:INFO:Prediction: [1680147.94681147]
+2024-04-06 08:20:51,877:INFO:127.0.0.1 - - [06/Apr/2024 08:20:51] "POST / HTTP/1.1" 200 -
+2024-04-06 08:24:09,988:INFO: * Detected change in '/home/jfbarahonag/personal/courses/unal/ProductosDeDatos/taller-presencial-jfbarahonag/src/6a_api_server/client-example.py', reloading
+2024-04-06 08:24:10,151:INFO: * Restarting with stat
+2024-04-06 08:24:10,552:WARNING: * Debugger is active!
+2024-04-06 08:24:10,553:INFO: * Debugger PIN: 103-935-374
+2024-04-06 08:24:13,672:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:24:14,042:INFO:Prediction: [1680147.94681147]
+2024-04-06 08:24:14,042:INFO:127.0.0.1 - - [06/Apr/2024 08:24:14] "POST / HTTP/1.1" 200 -
