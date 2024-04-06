@@ -33,3 +33,30 @@
 2024-04-06 08:24:13,672:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
 2024-04-06 08:24:14,042:INFO:Prediction: [1680147.94681147]
 2024-04-06 08:24:14,042:INFO:127.0.0.1 - - [06/Apr/2024 08:24:14] "POST / HTTP/1.1" 200 -
+2024-04-06 09:12:30,561:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:12:30,561:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:12:30,562:INFO: * Restarting with stat
+2024-04-06 09:12:31,061:WARNING: * Debugger is active!
+2024-04-06 09:12:31,062:INFO: * Debugger PIN: 103-935-374
+2024-04-06 09:13:59,116:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:13:59,586:INFO:Prediction: [181150.2369646]
+2024-04-06 09:13:59,587:INFO:127.0.0.1 - - [06/Apr/2024 09:13:59] "POST / HTTP/1.1" 200 -
+2024-04-06 09:14:03,461:INFO:User values: {'bedrooms': [2], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:14:03,463:INFO:Prediction: [219563.68550214]
+2024-04-06 09:14:03,464:INFO:127.0.0.1 - - [06/Apr/2024 09:14:03] "POST / HTTP/1.1" 200 -
+2024-04-06 09:14:07,266:INFO:User values: {'bedrooms': [1], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:14:07,268:INFO:Prediction: [257977.13403968]
+2024-04-06 09:14:07,269:INFO:127.0.0.1 - - [06/Apr/2024 09:14:07] "POST / HTTP/1.1" 200 -
+2024-04-06 09:15:59,745:INFO: * Detected change in '/home/jfbarahonag/personal/courses/unal/ProductosDeDatos/taller-presencial-jfbarahonag/src/6b_api_server/autograding.py', reloading
+2024-04-06 09:15:59,914:INFO: * Restarting with stat
+2024-04-06 09:16:00,290:WARNING: * Debugger is active!
+2024-04-06 09:16:00,290:INFO: * Debugger PIN: 103-935-374
+2024-04-06 09:16:05,332:INFO: * Detected change in '/home/jfbarahonag/personal/courses/unal/ProductosDeDatos/taller-presencial-jfbarahonag/src/6b_api_server/autograding.py', reloading
+2024-04-06 09:16:05,407:INFO: * Restarting with stat
+2024-04-06 09:16:05,776:WARNING: * Debugger is active!
+2024-04-06 09:16:05,777:INFO: * Debugger PIN: 103-935-374
+2024-04-06 09:16:06,789:INFO: * Detected change in '/home/jfbarahonag/personal/courses/unal/ProductosDeDatos/taller-presencial-jfbarahonag/src/6b_api_server/autograding.py', reloading
+2024-04-06 09:16:06,865:INFO: * Restarting with stat
+2024-04-06 09:16:07,214:WARNING: * Debugger is active!
+2024-04-06 09:16:07,214:INFO: * Debugger PIN: 103-935-374
